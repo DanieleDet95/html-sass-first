@@ -1,0 +1,10 @@
+// Dichiarazione variabile
+$colore_testo: red;
+
+// Appicazione variabile ai tag
+h2{
+  color: $colore_testo;
+}
+h3{
+  color: $colore_testo;
+}
